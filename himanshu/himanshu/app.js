@@ -1,5 +1,5 @@
  var $selectnews  = $('#news');
- $.getJSON('http://192.168.1.5:5000/news/',function(data){
+ $.getJSON('./news/',function(data){
  
   $selectnews.html('');
 
@@ -15,7 +15,7 @@ for (var n = 0; n< data['data'].length; n++) {
 
  var $select  = $('#language');
 
- $.getJSON('http://192.168.1.5:5000/languages',function(data){
+ $.getJSON('./Language',function(data){
 
   $select.html('');
 
@@ -31,7 +31,7 @@ for (var i = 0; i< data['data'].length; i++) {
 
 
  var $selectcity  = $('#city');
- $.getJSON('http://192.168.1.5:5000/cities',function(data){
+ $.getJSON('./states',function(data){
 
   $selectcity.html('');
 
@@ -52,7 +52,7 @@ var cityid  = $( "#city :selected" ).index();
 $.ajax({
 
  	 type:"GET",
-    url: "http://192.168.1.5:5000/news/cities/"+cityid+"/" +"languages/"+1 ,
+    url: "./news/cities/"+cityid+"/" +"Language/"+1 ,
     data: {},
     success: function(data){
    console.log(data)
