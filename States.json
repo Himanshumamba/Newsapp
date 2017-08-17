@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "state": "uttar pradesh"
+        },
+        {
+            "id": 2,
+            "state": "west bengal"
+        },
+        {
+            "id": 3,
+            "state": "punjab"
+        },
+        {
+            "id": 4,
+            "state": "bihar"
+        },
+        {
+            "id": 5,
+            "state": "uttarakhand"
+        },
+        {
+            "id": 6,
+            "state": "haryana"
+        },
+        {
+            "id": 7,
+            "state": "jharkhand"
+        },
+        {
+            "id": 8,
+            "state": "jammu and kashmir"
+        },
+        {
+            "id": 9,
+            "state": "himachal pradesh"
+        },
+        {
+            "id": 10,
+            "state": "odisha"
+        },
+        {
+            "id": 11,
+            "state": "chhattisgarh"
+        },
+        {
+            "id": 12,
+            "state": "delhi"
+        },
+        {
+            "id": 13,
+            "state": "madhya pradesh"
+        },
+        {
+            "id": 14,
+            "state": "rajasthan"
+        },
+        {
+            "id": 15,
+            "state": "chhatisgarh"
+        },
+        {
+            "id": 16,
+            "state": "himachal"
+        }
+    ]
+}
