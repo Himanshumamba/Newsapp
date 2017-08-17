@@ -1,0 +1,276 @@
+
+    "data": [
+        {
+            "city": "lucknow",
+            "id": 1
+        },
+        {
+            "city": "meerut",
+            "id": 2
+        },
+        {
+            "city": "kanpur",
+            "id": 3
+        },
+        {
+            "city": "agra",
+            "id": 4
+        },
+        {
+            "city": "allahabad",
+            "id": 5
+        },
+        {
+            "city": "kolkata",
+            "id": 6
+        },
+        {
+            "city": "jalpaiguri",
+            "id": 7
+        },
+        {
+            "city": "darjeeling",
+            "id": 8
+        },
+        {
+            "city": "malda",
+            "id": 9
+        },
+        {
+            "city": "cooch behar",
+            "id": 10
+        },
+        {
+            "city": "chandigarh",
+            "id": 11
+        },
+        {
+            "city": "ludhiana",
+            "id": 12
+        },
+        {
+            "city": "ropar",
+            "id": 13
+        },
+        {
+            "city": "amritsar",
+            "id": 14
+        },
+        {
+            "city": "patna",
+            "id": 15
+        },
+        {
+            "city": "bhagalpur",
+            "id": 16
+        },
+        {
+            "city": "muzaffarpur",
+            "id": 17
+        },
+        {
+            "city": "gaya",
+            "id": 18
+        },
+        {
+            "city": "darbhanga",
+            "id": 19
+        },
+        {
+            "city": "dehradun",
+            "id": 20
+        },
+        {
+            "city": "haridwar",
+            "id": 21
+        },
+        {
+            "city": "nainital",
+            "id": 22
+        },
+        {
+            "city": "almora",
+            "id": 23
+        },
+        {
+            "city": "udhamsingh nagar",
+            "id": 24
+        },
+        {
+            "city": "panchkula",
+            "id": 25
+        },
+        {
+            "city": "ambala",
+            "id": 26
+        },
+        {
+            "city": "rohtak",
+            "id": 27
+        },
+        {
+            "city": "panipat",
+            "id": 28
+        },
+        {
+            "city": "gurgaon",
+            "id": 29
+        },
+        {
+            "city": "ranchi",
+            "id": 30
+        },
+        {
+            "city": "jamshedpur",
+            "id": 31
+        },
+        {
+            "city": "dhanbad",
+            "id": 32
+        },
+        {
+            "city": "giridih",
+            "id": 33
+        },
+        {
+            "city": "hazaribagh",
+            "id": 34
+        },
+        {
+            "city": "jammu",
+            "id": 35
+        },
+        {
+            "city": "srinagar",
+            "id": 36
+        },
+        {
+            "city": "poonch",
+            "id": 37
+        },
+        {
+            "city": "rajouri",
+            "id": 38
+        },
+        {
+            "city": "udhampur",
+            "id": 39
+        },
+        {
+            "city": "shimla",
+            "id": 40
+        },
+        {
+            "city": "mandi",
+            "id": 41
+        },
+        {
+            "city": "bilaspur hp",
+            "id": 42
+        },
+        {
+            "city": "una",
+            "id": 43
+        },
+        {
+            "city": "bhubaneshwar",
+            "id": 44
+        },
+        {
+            "city": "chamba",
+            "id": 45
+        },
+        {
+            "city": "puri",
+            "id": 46
+        },
+        {
+            "city": "sambalpur",
+            "id": 47
+        },
+        {
+            "city": "rourkela",
+            "id": 48
+        },
+        {
+            "city": "cuttack",
+            "id": 49
+        },
+        {
+            "city": "bilaspur chhattisgarh",
+            "id": 50
+        },
+        {
+            "city": "new delhi",
+            "id": 51
+        },
+        {
+            "city": "raipur",
+            "id": 52
+        },
+        {
+            "city": "bhopal",
+            "id": 53
+        },
+        {
+            "city": "jaipur",
+            "id": 54
+        },
+        {
+            "city": "shajapur",
+            "id": 55
+        },
+        {
+            "city": "gwalior",
+            "id": 56
+        },
+        {
+            "city": "sikar",
+            "id": 57
+        },
+        {
+            "city": "rajnandgaon",
+            "id": 58
+        },
+        {
+            "city": "shriganganagar",
+            "id": 59
+        },
+        {
+            "city": "bilaspur",
+            "id": 60
+        },
+        {
+            "city": "durg bhilai",
+            "id": 61
+        },
+        {
+            "city": "raigarh",
+            "id": 62
+        },
+        {
+            "city": "sagar",
+            "id": 63
+        },
+        {
+            "city": "jabalpur",
+            "id": 64
+        },
+        {
+            "city": "ujjain",
+            "id": 65
+        },
+        {
+            "city": "vidisha",
+            "id": 66
+        },
+        {
+            "city": "jalandhar",
+            "id": 67
+        },
+        {
+            "city": "faridabad",
+            "id": 68
+        }
+    ]
+}
